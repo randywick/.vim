@@ -24,5 +24,5 @@ let NERDTreeShowHidden=1
 let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
 
 " Specify the status bar lines.
-"set laststatus=2
+set laststatus=2
 

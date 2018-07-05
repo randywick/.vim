@@ -20,9 +20,9 @@ execute pathogen#infect()
 " Indent guides - https://github.com/nathanaelkane/vim-indent-guides
 " Markdown - https://vimawesome.com/plugin/markdown-syntax
 
-source $PWD/editor.vim
-source $PWD/window.vim
-source $PWD/files.vim
-source $PWD/lint.vim
-source $PWD/keyboard-shortcuts.vim
+source ~/.vim/editor.vim
+source ~/.vim/window.vim
+source ~/.vim/files.vim
+source ~/.vim/lint.vim
+source ~/.vim/keyboard-shortcuts.vim
 
